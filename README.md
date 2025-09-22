@@ -1,2 +1,18 @@
-# resumo-dio-lab
-Este repositório é um resumo dos meus aprendizados, das descobertas e dos conceitos que explorei enquanto desenvolvia o projeto prático na plataforma da DIO.
+O Mundo da Inteligência Artificial na Nuvem
+Assistir a essa aula me abriu os olhos para a velocidade com que a Inteligência Artificial, especialmente a IA Generativa, está evoluindo. O palestrante mostrou um gráfico que me deixou de queixo caído: enquanto o celular levou 16 anos e a internet 7 para atingir 100 milhões de usuários, o ChatGPT fez isso em apenas 3 meses! Fica claro que a IA não é mais uma tecnologia do futuro, ela é a nossa realidade, e não dá para ficar de fora dessa onda.
+
+A Jornada da Microsoft com a IA
+Foi muito legal ver como a Microsoft, uma empresa que já conhecemos há tanto tempo, vem investindo em IA desde 1991. Eles não começaram do zero com o ChatGPT, mas construíram uma base sólida com projetos como o Xbox, a Cortana e a Azure AI. Isso mostra que a IA é um caminho de longo prazo, de constante evolução e inovação. O palestrante destacou a importância do Responsible AI Tooling, uma ferramenta que me pareceu crucial para garantir que as aplicações de IA sejam seguras e confiáveis. Afinal, ninguém quer um assistente virtual que saia respondendo coisas inapropriadas!
+
+Azure AI: Um Universo de Possibilidades
+A parte mais prática da aula foi a demonstração dos recursos do Azure AI. Descobri que o Azure não é apenas um lugar para hospedar sites ou máquinas virtuais, mas um ecossistema completo para trabalhar com IA. Entre os conceitos que me chamaram a atenção, estão:
+
+Azure AI Studio: É como um playground completo para quem quer criar soluções de IA. Podemos acessar modelos de linguagem enormes, como o GPT e o Lhama, e até mesmo usar o Model Benchmark para comparar qual modelo tem o melhor desempenho para a nossa necessidade. Isso é perfeito, porque nem sempre o modelo mais novo é o ideal para o nosso projeto, e essa ferramenta ajuda a tomar a decisão certa.
+
+Modelos e Prompts: Aprendi que o segredo para usar a IA não está só no modelo, mas na forma como interagimos com ele. A ideia de prompts é essencial, e foi interessante ver como o palestrante usou um prompt para dar uma "personalidade" ao assistente virtual. Eu também gostei de saber que existem ferramentas como o Promptit (disponível no GitHub e como extensão no VS Code) que ajudam a otimizar a criação desses prompts.
+
+Tradução de Áudio e Vídeo: O recurso de tradução de vídeo foi o que mais me impressionou! Ver o palestrante subir um vídeo em português e a IA traduzir o áudio para alemão e até tailandês, com a voz dele, foi algo que realmente me surpreendeu. Ele mencionou que, embora a tradução para idiomas com menos dados, como o português, ainda possa ter algumas "alucinações" ou não capturar regionalismos, a capacidade de gerar um vídeo com um áudio totalmente novo em outra língua é uma tecnologia poderosa, com um potencial enorme para traduzir aulas, por exemplo.
+
+Custos (Pricing): O palestrante foi super transparente sobre os custos. Ele mostrou que o modelo de consumo (pay-as-you-go) permite que a gente pague apenas pelo que usa, e que os custos variam por região. Ele deu a dica de usar regiões mais baratas, como as dos EUA, para testar projetos e evitar gastar muito. Isso é uma informação valiosa para quem, como eu, está começando e quer experimentar sem comprometer o orçamento.
+
+No final, percebi que a Azure AI oferece um conjunto de ferramentas que vai do básico ao avançado. Dá para começar com algo simples, como o Speech Studio, para traduzir um vídeo, ou mergulhar de cabeça no Azure AI Studio para construir soluções complexas. O lab foi um ótimo ponto de partida para entender que a IA Generativa é acessível e cheia de possibilidades, e que o céu é o limite para o que podemos criar.
